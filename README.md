@@ -15,4 +15,4 @@ kcp -di freealut
 kcp -i astromenace
 ```
 
-![Screenshot](http://www.viewizard.com/astromenace/am10_sm.jpg)
+![Screenshot](http://www.viewizard.com/astromenace/am10.jpg)
