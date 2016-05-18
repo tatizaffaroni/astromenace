@@ -7,6 +7,7 @@ url='http://www.viewizard.com/'
 license=('GPL3')
 source=("http://sourceforge.net/projects/openastromenace/files/${pkgver}/${pkgname}-src-${pkgver}.tar.bz2"
         "${pkgname}.desktop")
+depends=("sdl" "openal" "libogg" "libvorbis" "freetype2" "glu" "freealut")
 md5sums=('a1481ca7cf498773fddc16a3b41c9b9b'
          'a993bd947fc349015ff1daedb72e4e9b')
 
